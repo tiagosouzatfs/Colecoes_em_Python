@@ -9,6 +9,6 @@
 <a href='https://github.com/tiagosouzatfs/Colecoes_em_Python/blob/main/exercicios-python-secao07_p2_25e.pdf'>Link da lista de exercício - parte 2</a>
 
 <ul>
-  <li>Estou atualizando, atualmente não tem exercícios feitos - 28/03/2022.
+  <li>Estou atualizando, atualmente tem 1 exercício feito - 07/04/2022.
 </ul>
 <img src='https://github.com/tiagosouzatfs/Python_estruturas_de_repeticao/blob/main/python.jpg' alt='imagem em python' width='100%'>
