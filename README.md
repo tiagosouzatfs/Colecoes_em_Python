@@ -10,5 +10,6 @@
 
 <ul>
   <li>Estou atualizando, atualmente tem 1 exercício feito - 01/05/2022.
+  <li>Estou atualizando, atualmente tem 1 exercício feito - 10/05/2022.
 </ul>
 <img src='https://github.com/tiagosouzatfs/Python_estruturas_de_repeticao/blob/main/python.jpg' alt='imagem em python' width='100%'>
